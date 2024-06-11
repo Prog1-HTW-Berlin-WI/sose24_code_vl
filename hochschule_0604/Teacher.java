@@ -1,4 +1,4 @@
-public class Teacher extends Person {
+public abstract class Teacher extends Person {
     private String title;
 
     public Teacher(String name) {
